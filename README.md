@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NicsOO1/Leetcode-Challenges/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0283-move-zeroes](https://github.com/NicsOO1/Leetcode-Challenges/tree/main/0283-move-zeroes/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -16,4 +17,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/NicsOO1/Leetcode-Challenges/tree/main/0344-reverse-string/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NicsOO1/Leetcode-Challenges/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
