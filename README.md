@@ -21,4 +21,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NicsOO1/Leetcode-Challenges/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/NicsOO1/Leetcode-Challenges/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
