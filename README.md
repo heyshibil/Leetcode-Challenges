@@ -7,11 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/NicsOO1/Leetcode-Challenges/tree/main/0014-longest-common-prefix/) | Easy |
+| [0027-remove-element](https://github.com/NicsOO1/Leetcode-Challenges/tree/main/0027-remove-element/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NicsOO1/Leetcode-Challenges/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0283-move-zeroes](https://github.com/NicsOO1/Leetcode-Challenges/tree/main/0283-move-zeroes/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/NicsOO1/Leetcode-Challenges/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/NicsOO1/Leetcode-Challenges/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/NicsOO1/Leetcode-Challenges/tree/main/0344-reverse-string/) | Easy |
 ## String
